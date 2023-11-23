@@ -1,4 +1,4 @@
-# Sistema Web de Gestión de Pagos y Membresías en ML Sport
+# SISTEMA WEB PARA ML SPORT
 
 Bienvenido/a al repositorio del proyecto de implementación de un sistema web de gestión de pagos y membresías para ML Sport. Este proyecto tiene como objetivo mejorar la eficiencia y la experiencia del usuario en el manejo de transacciones y membresías en la empresa.
   
@@ -8,7 +8,17 @@ Bienvenido/a al repositorio del proyecto de implementación de un sistema web de
 
 ## Descripción del Proyecto
 
-Este proyecto se enfoca en la creación de un sistema web integral que automatiza y optimiza los procesos de pago y gestión de membresías en ML Sport. La implementación de esta solución busca mejorar la eficiencia operativa, reducir errores y aumentar la retención de miembros a través de una experiencia de usuario mejorada.
+Este proyecto se enfoca en la creación de un sistema web integral para ML Sport. La implementación de esta solución busca mejorar la eficiencia operativa, reducir errores y aumentar la retención de miembros a través de una experiencia de usuario mejorada.
+
+## Futuras Actualizaciones
+
+Estamos trabajando activamente en futuras actualizaciones que incluirán mejoras en la gestión de pagos y membresías. Algunas de las características planificadas son:
+
+- Implementación de un sistema de notificaciones para recordatorios de pagos.
+- Mejoras en la interfaz de usuario para una administración más intuitiva de membresías.
+- Integración de métodos de pago adicionales.
+
+Esté atento a las próximas actualizaciones para disfrutar de estas mejoras y nuevas funcionalidades.
 
 ## Características Principales
 
