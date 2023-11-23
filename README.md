@@ -41,5 +41,5 @@ Esté atento a las próximas actualizaciones para disfrutar de estas mejoras y n
 
 ## Agradecimientos
 
-Quiero expresar mi agradecimiento a todas las personas que contribuyeron a este proyecto. Consulte la sección de [Agradecimientos](AGRADECIMIENTOS.md) para más detalles.
+Quiero expresar mi agradecimiento a todas las personas que contribuyeron a este proyecto. Consulte la sección de [Agradecimientos] para más detalles.
 
