@@ -15,3 +15,20 @@ Este proyecto se enfoca en la creación de un sistema web integral que automatiz
 - Administración centralizada de membresías.
 - Panel de control intuitivo para usuarios y administradores.
 - Integración con sistemas existentes de ML Sport.
+
+## Estructura del Repositorio
+
+- `/docs`: Documentación detallada del proyecto.
+- `/src`: Código fuente del sistema web.
+- `/assets`: Recursos multimedia utilizados en la documentación.
+
+## Guía de Instalación
+
+1. Clone el repositorio: `git clone https://github.com/tuusuario/turepositorio.git`
+2. Acceda al directorio del proyecto: `cd turepositorio`
+3. Siga las instrucciones de instalación en `/docs/instalacion.md`.
+
+## Agradecimientos
+
+Quiero expresar mi agradecimiento a todas las personas que contribuyeron a este proyecto. Consulte la sección de [Agradecimientos](AGRADECIMIENTOS.md) para más detalles.
+
